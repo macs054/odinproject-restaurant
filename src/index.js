@@ -11,7 +11,7 @@ const content = () => {
 
     const contentContainer = document.createElement('div');
     contentContainer.classList.add('main-container');
-    contentContainer.appendChild(initMenuItems());
+    contentContainer.appendChild(initHomeContent());
 
     content.appendChild(initHeader());
     content.appendChild(contentContainer);

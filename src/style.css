@@ -30,6 +30,12 @@ header {
 .title {
     margin-bottom: 1em;
     font-size: 42px;
+    text-align: center;
+}
+
+.nav {
+    display: flex;
+    width: 480px;
 }
 
 nav > div {
@@ -37,10 +43,11 @@ nav > div {
     text-decoration: none;
     color: #292929;
     font-size: 20px;
-    margin: 2em;
     text-transform: uppercase;
     display: inline;
     cursor: pointer;
+    flex-basis: 100%;
+    margin: 0 1em;
 }
 
 .selected {
@@ -85,11 +92,13 @@ footer {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    justify-content: center;
 }
 
 .menu-item {
     padding: 1em;
-    flex: 1 1 45%;
+    max-width: 350px;
+    flex: 1 1 60%;
 }
 
 .menu-item-name {
