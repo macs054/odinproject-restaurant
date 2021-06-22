@@ -1,0 +1,26 @@
+{
+    "menu": {
+        "items": [
+            {
+                "name": "Food 1",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis felis ac nisl tincidunt condimentum vel eget erat.",
+                "img": "https://dummyimage.com/350x150/fff/aaa"
+            },
+            {
+                "name": "Food 2",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis felis ac nisl tincidunt condimentum vel eget erat.",
+                "img": "https://dummyimage.com/350x150/fff/aaa"
+            },
+            {
+                "name": "Food 3",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis felis ac nisl tincidunt condimentum vel eget erat.",
+                "img": "https://dummyimage.com/350x150/fff/aaa"
+            },
+            {
+                "name": "Food 4",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis felis ac nisl tincidunt condimentum vel eget erat.",
+                "img": "https://dummyimage.com/350x150/fff/aaa"
+            }
+        ]
+    }
+}
